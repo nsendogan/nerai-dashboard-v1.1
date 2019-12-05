@@ -9,6 +9,7 @@ A server must be started to get the realtime info flow.
 For that: 
 - Open terminal at the root
 - Type: node server.js
+- Refresh the page if nothing changes
 
 # Chart Data Storage
 Charts are displayed from an external source. But the datas are available at local storages. 
